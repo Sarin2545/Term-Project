@@ -1,0 +1,32 @@
+name: maps
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0-323.2.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^13.0.2
+  latlong2: ^0.9.1
+  flutter_map: ^8.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/images/app_icon1.png"
+
+flutter:
+
+  uses-material-design: true
