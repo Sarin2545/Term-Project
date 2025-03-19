@@ -156,8 +156,6 @@ class _MyHomePageState extends State<MyHomePage> {
                     const SizedBox(height: 10),
                     _buildListTile("Mobile Application---\nENGCE307-SEC : 1"),
                     _buildListTile("นาย สารินทร์ อินต๊ะรักษา\nรหัสนักศึกษา : 65543206082-1",),
-                    _buildListTile("นาย ธีรกานต์ ฟองคำ\nรหัสนักศึกษา : 65543206063-1",),
-                    _buildListTile("นาย วุฒิพงศ์ เขียวขำ\nรหัสนักศึกษา : 65543206079-7",),
                   ],
                 ),
               );
